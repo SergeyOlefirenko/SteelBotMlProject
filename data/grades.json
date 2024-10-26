@@ -1,0 +1,193 @@
+[
+  {
+    "Stainless steel": [
+      {
+        "grade_value": 7920
+      }
+    ]
+  },
+  {
+    "Carbon steel": [
+      {
+        "grade_value": 7850
+      }
+    ]
+  },
+  {
+    "Heat resistant alloys": [
+      {
+        "grade_value": 8350
+      }
+    ]
+  },
+  {
+    "Titanium alloys": [
+      {
+        "grade_value": 4500
+      }
+    ]
+  },
+  {
+    "Aluminium alloys": [
+      {
+        "grade_value": 2500
+      }
+    ]
+  },
+  {
+    "Copper alloys": [
+      {
+        "grade_value": 8800
+      }
+    ]
+  },
+  {
+    "Actinium": [
+      {
+        "grade_value": 10070
+      }
+    ]
+  },
+   {
+    "Silver": [
+      {
+        "grade_value": 10500
+      }
+    ]
+  },
+    {
+    "Americium": [
+      {
+        "grade_value": 13670
+      }
+    ]
+  },
+    {
+    "Gold": [
+      {
+        "grade_value": 19320
+      }
+    ]
+  },
+   {
+    "Beryllium": [
+      {
+        "grade_value": 1848
+      }
+    ]
+  },
+    {
+    "Bismuth": [
+      {
+        "grade_value": 9790
+      }
+    ]
+  },
+   {
+    "Berkelium": [
+      {
+        "grade_value": 14780
+      }
+    ]
+  },
+    {
+    "Bohrium": [
+      {
+        "grade_value": 37000
+      }
+    ]
+  },
+   {
+    "Cadmium": [
+      {
+        "grade_value": 8650
+      }
+    ]
+  },
+    {
+    "Cerium": [
+      {
+        "grade_value": 6757
+      }
+    ]
+  },
+    {
+    "Californium": [
+      {
+        "grade_value": 15100
+      }
+    ]
+  },
+   {
+    "Cobalt": [
+      {
+        "grade_value": 8900
+      }
+    ]
+  },
+   {
+    "Chromium": [
+      {
+        "grade_value": 7190
+      }
+    ]
+  },
+   {
+    "Cesium": [
+      {
+        "grade_value": 1873
+      }
+    ]
+  },
+    {
+    "Copper": [
+      {
+        "grade_value": 8960
+      }
+    ]
+  },
+   {
+    "Curium": [
+      {
+        "grade_value": 13510
+      }
+    ]
+  },
+  {
+    "Dubnium": [
+      {
+        "grade_value": 15000
+      }
+    ]
+  },
+   {
+    "Darmstadtium": [
+      {
+        "grade_value": 34800
+      }
+    ]
+  },
+    {
+    "Dysprosium": [
+      {
+        "grade_value": 8559
+      }
+    ]
+  },
+    {
+    "Dysprosium": [
+      {
+        "grade_value": 8559
+      }
+    ]
+  },
+  {
+    "Platinum": [
+      {
+        "grade_value": 21500
+      }
+    ]
+  }
+]
+
+

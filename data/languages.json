@@ -1,0 +1,13 @@
+[
+  {
+    "language_code": "en",
+    "menu": ["Round/circle", "Square/rectangle", "Pipe", "Sheet/strip", "Beam", "Channel", "Corner", "Hexagon",
+             "Armature", "Sphere/ball", "Standard calculator", "Change language", "User manual"]
+  },
+  {
+    "language_code": "ru",
+    "menu": ["Круг/кольцо", "Квадрат/прямоугольник", "Труба", "Лист/полоса", "Балка", "Швеллер", "Уголок", "Шестигранник",
+             "Арматура", "Сфера/шар", "Стандартный калькулятор", "Сменить язык", "Руководство пользователя"]
+  }
+]
+

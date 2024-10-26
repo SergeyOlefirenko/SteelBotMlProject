@@ -1,0 +1,15 @@
+[
+    {"text":
+        [
+            "Stainless steel", "Carbon steel", "High speed steel","Nickel heat-resistant alloys",
+            "Iron-nickel heat-resistant alloys", "Titanium alloys", "Aluminium alloys", "Beryllium bronzes",
+            "Brass", "Copper-nickel alloys", "Magnesium alloys", "Tin bronzes", "Tinless bronzes", "All metals"
+        ],
+        "callback_data":
+        [
+          "Stainless steel", "Carbon steel", "High speed steel","Nickel heat-resistant alloys",
+          "Iron-nickel heat-resistant alloys", "Titanium alloys", "Aluminium alloys", "Beryllium bronzes",
+          "Brass", "Copper-nickel alloys", "Magnesium alloys", "Tin bronzes", "Tinless bronzes", "All metals"
+        ]
+    }
+]

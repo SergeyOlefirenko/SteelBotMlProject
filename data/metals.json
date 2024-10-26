@@ -1,0 +1,23 @@
+[
+    {"text":
+        [
+            "Ac", "Ag", "Am","Au","Be","Bi","Bk","Bo","Cd", "Ce", "Cf", "Co", "Cr", "Cs", "Cu", "Cm", "Db", "Ds",
+            "Dy", "Es", "Er", "Eu", "Fm", "Fr", "Ga", "Gd", "Ge", "Hf", "Ho", "Hs", "In", "Ir", "La", "Lr", "Lu",
+            "Md", "Mn", "Mo", "Mt", "Nb", "Nd", "Ni", "Nh", "No", "Np", "Os", "Pa", "Pb", "Pd", "Pm", "Po", "Pr",
+            "Pt", "Pu", "Ra", "Rb", "Re", "Rf", "Rh", "Ru", "Sb", "Sc", "Se", "Sg", "Si", "Sm", "Sn", "Sr",
+            "Ta", "Tb", "Te", "Th", "Ti", "Tl", "Tm", "U", "V", "W", "Y", "Yb", "Zn", "Zr", "Zr"
+        ],
+        "callback_data":
+        [
+            "Actinium", "Silver", "Americium", "Gold", "Beryllium", "Bismuth", "Berkelium", "Cadmium", "Cerium",
+            "Californium", "Cobalt", "Chromium", "Cesium", "Copper", "Curium", "Dubnium", "Darmstadtium", "Dysprosium",
+            "Einsteinium", "Erbium", "Europium", "Fermium", "Francium", "Gallium", "Gadolinium", "Germanium", "Hafnium",
+            "Holmium", "Hassium", "Indium", "Iridium", "Lanthanum", "Lawrencium", "Lutetium", "Mendelevium", "Manganese",
+            "Molybdenum", "Meitnerium", "Niobium", "Neodymium", "Nickel", "Nihonium", "Nobelium", "Neptunium", "Osmium",
+            "Protactinium", "Lead", "Palladium", "Promethium", "Polonium", "Praseodymium", "Platinum", "Plutonium", "Radium",
+            "Rubidium", "Rhenium", "Rutherfordium", "Rhodium", "Ruthenium", "Antimony", "Scandium", "Selenium", "Seaborgium",
+            "Silicon", "Samarium", "Tin", "Strontium", "Tantalum", "Terbium", "Tellurium", "Thorium", "Titanium", "Thallium",
+            "Thulium", "Uranium", "Vanadium", "Tungsten", "Yttrium", "Ytterbium", "Zinc", "Zirconium", "Zirconium"
+        ]
+    }
+]

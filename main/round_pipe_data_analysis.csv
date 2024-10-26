@@ -1,0 +1,17 @@
+nomenclature_id,nomenclature,diameter,wall_thickness,material,length,weight,count
+1,Round pipe,157.0,4.0,Titanium alloys,20.0,173.04,3
+2,Round pipe,157.0,8.0,Titanium alloys,8.0,134.812,1
+3,Round pipe,57.0,8.0,Titanium alloys,8.0,44.334,1
+4,Round pipe,157.0,4.0,Stainless steel,21.0,319.775,3
+5,Round pipe,57.0,8.0,Stainless steel,9.0,87.782,2
+6,Round pipe,18.0,1.0,Stainless steel,1.0,0.423,1
+7,Round pipe,48.0,4.0,Stainless steel,1.0,4.379,1
+8,Round pipe,22.0,2.0,Stainless steel,1.0,0.995,1
+9,Round pipe,22.0,2.0,Aluminium alloys,1.0,0.314,1
+10,Round pipe,22.0,4.0,Aluminium alloys,1.0,0.565,1
+11,Round pipe,57.0,4.0,Aluminium alloys,8.0,13.32,1
+12,Round pipe,157.0,8.0,Aluminium alloys,1.0,9.362,1
+13,Round pipe,57.0,8.0,Carbon steel,1.0,9.667,1
+14,Round pipe,57.0,4.0,Carbon steel,8.0,41.826,1
+15,Round pipe,119.0,8.0,Carbon steel,1.0,21.899,1
+16,Round pipe,189.0,8.0,Carbon steel,4.0,142.839,1

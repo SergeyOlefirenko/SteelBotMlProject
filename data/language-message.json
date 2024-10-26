@@ -1,0 +1,363 @@
+[
+  {
+    "de": [
+    {
+      "lang_message": "Benutzer nicht gefunden. Um sich zu registrieren, geben Sie Ihren Namen ein:"
+    },
+    {
+      "lang_message": "Der Benutzer hat keine Daten. Geben Sie Ihren Namen ein, um die Daten auszufüllen:"
+    },
+    {
+      "lang_message": "Dieser Benutzer ist bereits registriert."
+    },
+    {
+      "lang_message": "Bei der Verarbeitung Ihrer Anfrage ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+    },
+    {
+      "lang_message": "Ausgezeichnet! Geben Sie nun Ihr Alter ein:"
+    },
+    {
+      "lang_message": "Vielen Dank! Geben Sie jetzt Ihre E-Mail-Adresse ein:"
+    },
+    {
+      "lang_message": "Vielen Dank! Geben Sie jetzt Ihre Telefonnummer ein:"
+    },
+    {
+      "lang_message": "Vielen Dank für die Registrierung."
+    }
+  ]
+},
+  {
+    "en": [
+    {
+      "lang_message": "User not found. To register, enter your name:"
+    },
+    {
+      "lang_message": "The user has no data. To fill in the data, enter your name:"
+    },
+    {
+      "lang_message": "This user is already registered"
+    },
+    {
+      "lang_message": "An error occurred while processing your request. Please try again."
+    },
+    {
+      "lang_message": "Great! Now enter your age:"
+    },
+    {
+      "lang_message": "Thank you! Now enter your email:"
+    },
+    {
+      "lang_message": "Thank you! Now enter your phone number:"
+    },
+    {
+      "lang_message": "Thank you for registration"
+  }
+]
+},
+  {
+    "es": [
+    {
+      "lang_message": "Usuario no encontrado. Para registrarse, ingrese su nombre:"
+    },
+    {
+      "lang_message": "El usuario no tiene datos. Para completar los datos, ingrese su nombre:"
+    },
+    {
+      "lang_message": "Este usuario ya está registrado."
+    },
+    {
+      "lang_message": "Se produjo un error al procesar su solicitud. Por favor, inténtelo de nuevo."
+    },
+    {
+      "lang_message": "¡Genial! Ahora ingrese su edad:"
+    },
+    {
+      "lang_message": "¡Gracias! Ahora ingrese su correo electrónico:"
+    },
+    {
+      "lang_message": "¡Gracias! Ahora ingrese su número de teléfono:"
+    },
+    {
+      "lang_message": "Gracias por registrarte."
+    }
+  ]
+},
+  {
+   "fr": [
+     {
+      "lang_message": "Utilisateur non trouvé. Pour vous inscrire, saisissez votre nom :"
+    },
+    {
+      "lang_message": "L'utilisateur n'a pas de données. Pour remplir les données, saisissez votre nom :"
+    },
+    {
+      "lang_message": "Cet utilisateur est déjà enregistré."
+    },
+    {
+      "lang_message": "Une erreur s'est produite lors du traitement de votre demande. Veuillez réessayer."
+    },
+    {
+      "lang_message": "Parfait ! Maintenant, saisissez votre âge :"
+    },
+    {
+      "lang_message": "Merci ! Maintenant, saisissez votre adresse e-mail :"
+    },
+    {
+      "lang_message": "Merci ! Maintenant, saisissez votre numéro de téléphone :"
+    },
+    {
+      "lang_message": "Merci de vous être inscrit."
+    }
+  ]
+},
+  {
+    "it": [
+    {
+      "lang_message": "Utente non trovato. Per registrarti, inserisci il tuo nome:"
+    },
+    {
+      "lang_message": "L'utente non ha dati. Per compilare i dati, inserisci il tuo nome:"
+    },
+    {
+      "lang_message": "Questo utente è già registrato."
+    },
+    {
+      "lang_message": "Si è verificato un errore durante l'elaborazione della tua richiesta. Riprova."
+    },
+    {
+      "lang_message": "Eccellente! Ora inserisci la tua età:"
+    },
+    {
+      "lang_message": "Grazie! Ora inserisci la tua email:"
+    },
+    {
+      "lang_message": "Grazie! Ora inserisci il tuo numero di telefono:"
+    },
+    {
+      "lang_message": "Grazie per la registrazione."
+    }
+  ]
+},
+  {
+  "pl": [
+    {
+      "lang_message": "Użytkownik nie znaleziony. Aby się zarejestrować, wprowadź swoje imię:"
+    },
+    {
+      "lang_message": "Użytkownik nie ma danych. Aby wypełnić dane, wprowadź swoje imię:"
+    },
+    {
+      "lang_message": "Ten użytkownik jest już zarejestrowany."
+    },
+    {
+      "lang_message": "Wystąpił błąd podczas przetwarzania Twojego żądania. Spróbuj ponownie."
+    },
+    {
+      "lang_message": "Świetnie! Teraz wprowadź swój wiek:"
+    },
+    {
+      "lang_message": "Dziękuję! Teraz wprowadź swój adres e-mail:"
+    },
+    {
+      "lang_message": "Dziękuję! Teraz wprowadź swój numer telefonu:"
+    },
+    {
+      "lang_message": "Dziękuję za rejestrację."
+    }
+  ]
+},
+  {
+    "ru": [
+      {
+        "lang_message": "Пользователь не найден. Чтобы зарегистрироваться, введите ваше имя:"
+      },
+      {
+        "lang_message": "У пользователя нет данных. Чтобы заполнить данные, введите ваше имя:"
+      },
+      {
+        "lang_message": "Данный пользователь уже зарегистрирован"
+      },
+      {
+        "lang_message": "Произошла ошибка в обработке вашего запроса. Пожалуйста, попробуйте снова."
+      },
+      {
+       "lang_message": "Отлично! Теперь введите ваш возраст:"
+      },
+      {
+        "lang_message": "Спасибо! Теперь введите ваш email:"
+      },
+      {
+        "lang_message": "Спасибо! Теперь введите ваш номер телефона:"
+      },
+      {
+        "lang_message": "Спасибо за регистрацию"
+      }
+    ]
+  },
+  {
+    "sk": [
+{
+"lang_message": "Používateľ nenájdený. Ak sa chcete zaregistrovať, zadajte svoje meno:"
+},
+{
+"lang_message": "Používateľ nemá žiadne údaje. Ak chcete vyplniť údaje, zadajte svoje meno:"
+},
+{
+"lang_message": "Tento používateľ je už zaregistrovaný."
+},
+{
+"lang_message": "Pri spracovaní vášho požiadavky došlo k chybe. Skúste to prosím znova."
+},
+{
+"lang_message": "Výborne! Teraz zadajte svoj vek:"
+},
+{
+"lang_message": "Ďakujem! Teraz zadajte svoj e-mail:"
+},
+{
+"lang_message": "Ďakujem! Teraz zadajte svoje telefónne číslo:"
+},
+{
+"lang_message": "Ďakujem za registráciu."
+}
+]
+},
+  {
+    "sl": [
+{
+"lang_message": "Uporabnik ni najden. Za registracijo vnesite svoje ime:"
+},
+{
+"lang_message": "Uporabnik nima podatkov. Za izpolnitev podatkov vnesite svoje ime:"
+},
+{
+"lang_message": "Ta uporabnik je že registriran."
+},
+{
+"lang_message": "Pri obdelavi vaše zahteve je prišlo do napake. Poskusite znova."
+},
+{
+"lang_message": "Odlično! Zdaj vnesite svojo starost:"
+},
+{
+"lang_message": "Hvala! Zdaj vnesite svoj e-poštni naslov:"
+},
+{
+"lang_message": "Hvala! Zdaj vnesite svojo telefonsko številko:"
+},
+{
+"lang_message": "Hvala za registracijo."
+}
+]
+},
+  {"cs": [
+{
+"lang_message": "Uživatel nenalezen. Pro registraci zadejte své jméno:"
+},
+{
+"lang_message": "Uživatel nemá žádná data. Pro vyplnění dat zadejte své jméno:"
+},
+{
+"lang_message": "Tento uživatel je již registrován."
+},
+{
+"lang_message": "Při zpracování vašeho požadavku došlo k chybě. Zkuste to prosím znovu."
+},
+{
+"lang_message": "Skvělé! Nyní zadejte svůj věk:"
+},
+{
+"lang_message": "Děkujeme! Nyní zadejte svůj e-mail:"
+},
+{
+"lang_message": "Děkujeme! Nyní zadejte své telefonní číslo:"
+},
+{
+"lang_message": "Děkujeme za registraci."
+}
+]
+},
+  {"zh": [
+{
+"lang_message": "用户未找到。要注册，请输入您的姓名："
+},
+{
+"lang_message": "用户没有数据。要填写数据，请输入您的姓名："
+},
+{
+"lang_message": "此用户已经注册。"
+},
+{
+"lang_message": "处理您的请求时发生错误。请重试。"
+},
+{
+"lang_message": "太好了！现在请输入您的年龄："
+},
+{
+"lang_message": "谢谢！现在请输入您的电子邮件："
+},
+{
+"lang_message": "谢谢！现在请输入您的电话号码："
+},
+{
+"lang_message": "感谢注册。"
+}
+]
+},
+  {"ja": [
+{
+"lang_message": "ユーザーが見つかりません。登録するには、あなたの名前を入力してください："
+},
+{
+"lang_message": "ユーザーにはデータがありません。データを入力するには、あなたの名前を入力してください："
+},
+{
+"lang_message": "このユーザーは既に登録されています。"
+},
+{
+"lang_message": "あなたのリクエストの処理中にエラーが発生しました。もう一度お試しください。"
+},
+{
+"lang_message": "素晴らしいです！今、あなたの年齢を入力してください："
+},
+{
+"lang_message": "ありがとう！今、あなたの電子メールアドレスを入力してください："
+},
+{
+"lang_message": "ありがとう！今、あなたの電話番号を入力してください："
+},
+{
+"lang_message": "登録いただきありがとうございます。"
+}
+]
+},
+  {
+    "ko": [
+{
+"lang_message": "사용자를 찾을 수 없습니다. 등록하려면 이름을 입력하십시오."
+},
+{
+"lang_message": "사용자에게 데이터가 없습니다. 데이터를 입력하려면 이름을 입력하십시오."
+},
+{
+"lang_message": "이 사용자는 이미 등록되어 있습니다."
+},
+{
+"lang_message": "요청 처리 중 오류가 발생했습니다. 다시 시도해주세요."
+},
+{
+"lang_message": "좋습니다! 이제 나이를 입력하세요."
+},
+{
+"lang_message": "감사합니다! 이제 이메일 주소를 입력하세요."
+},
+{
+"lang_message": "감사합니다! 이제 전화 번호를 입력하세요."
+},
+{
+"lang_message": "등록해 주셔서 감사합니다."
+}
+]
+}
+]
